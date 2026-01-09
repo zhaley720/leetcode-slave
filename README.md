@@ -1,1 +1,3 @@
 # leetcode-slave
+
+this repository is literally just a place to put all of the code that i write/study for my (hopefully) daily leetcode problems as i drill them. that's all. the goal is organize by date that i studied them on, and have one new problem per day, and two problems that i have done before that i write all the code down again as a way of drilling the concepts and syntax. hopefully i can keep up with this endevor.
